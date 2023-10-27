@@ -1,0 +1,56 @@
+/* Reset some default browser styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: hsl(135, 91%, 41%);
+    text-align: center;
+    padding: 10px;
+  }
+  
+  /* Navigation Styles */
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #b32222;
+    font-weight: bold;
+  }
+  
+  /* Main Content Styles */
+  main {
+    padding: 20px;
+  }
+  
+  /* Product Styles */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Testimonials Styles */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
